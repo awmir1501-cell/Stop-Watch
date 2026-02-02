@@ -1,2 +1,3 @@
 # Stop-Watch
-Make a digital stop watch using python
+Making a digital stop watch using python
+For this stop watch I use python turtle library 
